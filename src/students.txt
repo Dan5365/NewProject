@@ -1,0 +1,5 @@
+HarryPotter,21,Male,78,89,99,51
+RonQeasley,20,Male,78,89,75,63,82
+HermioneGranger,19,Female,100,99,95,98,100,96,97
+LunaLovegood,20,Female,46,87,67,79,96,58,83
+DracoMalfoy,19,Male,21,45,0,9,51,43

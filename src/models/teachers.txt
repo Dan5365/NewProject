@@ -1,0 +1,5 @@
+SeverusSnape,51,Male,Math,7,800000
+AlbusDumbledore,71,Male,Philosophy,25,1500000
+MinervaMcGonagall,62,Female,Sociology,17,1100000
+BellatrixLestrange,35,Female,Programming,3,570000
+SiriusBlack,49,Male,Physics,9,750000
